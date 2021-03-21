@@ -1,7 +1,7 @@
 # gamespot
 
 # About project
-Web site about games, where we can register and login, add our posts, delete post, display posts from the firebase database
+This course project is a web site about games, where we can register and login, add our posts, delete post, display posts from the firebase database
 
 ## Project setup
 ```
